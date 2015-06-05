@@ -1,0 +1,20 @@
+{
+  "name": "dns-tracing",
+  "version": "1.0.0",
+  "description": "Trace dns lookups for node",
+  "main": "index.js",
+  "dependencies": {
+    "dtrace-provider": "~0.5.0"
+  },
+  "devDependencies": {},
+  "license": "MIT",
+  "author": "Evan Lucas <evanlucas@me.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evanlucas/dns-tracing"
+  },
+  "homepage": "https://github.com/evanlucas/dns-tracing",
+  "bugs": {
+    "url": "https://github.com/evanlucas/dns-tracing/issues"
+  }
+}
